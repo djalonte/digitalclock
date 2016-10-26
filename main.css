@@ -1,0 +1,21 @@
+body{
+background-color: red;
+
+
+}
+
+
+#clock {
+	font-family: sans-serif;
+	font-size: 2em;
+	width: 500px;
+	margin: 0 auto;
+	text-align: center;
+	padding: 20px;
+	margin-top: 40px;
+	border: solid black 8px;
+	background-color: yellow;
+	color: blue
+
+
+}
